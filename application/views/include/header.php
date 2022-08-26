@@ -38,7 +38,7 @@
   <div class=" d-flex flex-column">
         
         <div class="d-flex justify-content-start">
-      <img src="/asets/circle.png" alt="" class=""> 
+      <img src="/assets/circle.png" alt="" class=""> 
         <div class="d-flex flex-column  ">
         <a class="navbar-link fs-4 text-decoration-none  " href="#"><span class="fw-bold text-dark  ">Mc cafee</span></a>
        <p>menu</p>
